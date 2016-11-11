@@ -1,0 +1,1 @@
+[{"address": "22X H1E FWY", "time": "2:28:05 AM", "location": "H1E KINAU OFF", "area": "HONOLULU", "date": "11/10/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}]

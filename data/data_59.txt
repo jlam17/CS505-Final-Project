@@ -1,0 +1,1 @@
+[{"address": "AALA ST&N; BERETANIA ST", "time": "3:50:34 AM", "location": "\u00a0", "area": "DOWNTOWN", "date": "11/11/2016", "type": "TRAFFIC SIGNAL PROBLEM"}, {"address": "124X ALOHA OE DR", "time": "3:26:18 AM", "location": "\u00a0", "area": "KAILUA", "date": "11/11/2016", "type": "MOTOR VEHICLE COLLISION"}]

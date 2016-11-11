@@ -1,0 +1,1 @@
+[{"address": "330X ALA LAULANI", "time": "12:47:01 AM", "location": "ST PHILOMENA CHURCH", "area": "SALT LAKE", "date": "11/9/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}, {"address": "220X KALAKAUA AVE", "time": "12:25:59 AM", "location": "ROYAL HAWN SC A", "area": "WAIKIKI", "date": "11/9/2016", "type": "MOTOR VEHICLE COLLISION"}]

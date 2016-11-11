@@ -1,0 +1,1 @@
+[{"address": "S BERETANIA ST&KEEAUMOKU; ST", "time": "4:31:30 AM", "location": "\u00a0", "area": "HONOLULU", "date": "11/11/2016", "type": "TRAFFIC SIGNAL PROBLEM"}]

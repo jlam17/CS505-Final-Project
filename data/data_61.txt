@@ -1,0 +1,1 @@
+[{"address": "10X H1E FWY", "time": "5:39:58 AM", "location": "H1E WAIMALU ON", "area": "PEARL CITY", "date": "11/11/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}, {"address": "KALANIANAOLE HWY&ULUHALA; ST", "time": "5:18:35 AM", "location": "\u00a0", "area": "KAILUA", "date": "11/11/2016", "type": "HAZARDOUS DRIVER"}]

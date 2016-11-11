@@ -1,0 +1,1 @@
+[{"address": "91166X FORT WEAVER RD", "time": "11:53:03 PM", "location": "7ELEVEN EWA VILLAGES", "area": "EWA BEACH", "date": "11/8/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}, {"address": "GULICK AVE&N; SCHOOL ST", "time": "10:55:05 PM", "location": "\u00a0", "area": "KALIHI", "date": "11/8/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}]

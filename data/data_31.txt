@@ -1,0 +1,1 @@
+[{"address": "293X HARDING AVE", "time": "11:38:57 PM", "location": "FOODLAND MARKET CITY", "area": "KAPAHULU", "date": "11/9/2016", "type": "MOTOR VEHICLE COLLISION"}]

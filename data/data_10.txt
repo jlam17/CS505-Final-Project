@@ -1,0 +1,1 @@
+[{"address": "KIHAPAI ST&ONEAWA; ST", "time": "2:46:47 AM", "location": "\u00a0", "area": "KAILUA", "date": "11/9/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}]
