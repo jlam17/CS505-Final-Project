@@ -1,0 +1,1 @@
+[{"address": "H3E KAM OFF", "time": "6:53:31 AM", "location": "H3E KAM OFF", "area": "KANEOHE", "date": "11/11/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}]

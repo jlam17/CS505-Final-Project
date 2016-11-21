@@ -1,0 +1,1 @@
+[{"address": "133X YOUNG ST", "time": "8:05:50 PM", "location": "\u00a0", "area": "HONOLULU", "date": "11/17/2016", "type": "MOTOR VEHICLE COLLISION"}, {"address": "S BERETANIA ST&PALI; HWY", "time": "8:03:51 PM", "location": "\u00a0", "area": "DOWNTOWN", "date": "11/17/2016", "type": "STALLED/HAZARDOUS VEHICLE"}]

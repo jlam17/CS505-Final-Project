@@ -1,0 +1,1 @@
+[{"address": "84117X FARRINGTON HWY", "time": "4:17:23 AM", "location": "CORNET VILLAGE", "area": "MAKAHA", "date": "11/14/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}, {"address": "98053X KAONOHI ST", "time": "4:11:24 AM", "location": "PEARL COUNTRY CLUB", "area": "AIEA", "date": "11/14/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}]

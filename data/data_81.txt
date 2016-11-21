@@ -1,0 +1,1 @@
+[{"address": "212X N NIMITZ HWY", "time": "1:30:22 AM", "location": "MCDONALDS KALIHI", "area": "KALIHI", "date": "11/12/2016", "type": "MOTOR VEHICLE COLLISION"}, {"address": "H3E E HARANO TUNNEL", "time": "1:20:31 AM", "location": "H3E E HARANO TUNNEL", "area": "KANEOHE", "date": "11/12/2016", "type": "STALLED/HAZARDOUS VEHICLE"}]

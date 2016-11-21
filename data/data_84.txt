@@ -1,0 +1,1 @@
+[{"address": "AIEA ACCESS RD&KAM; HWY", "time": "4:09:18 AM", "location": "\u00a0", "area": "AIEA", "date": "11/12/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}]

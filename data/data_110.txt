@@ -1,0 +1,1 @@
+[{"address": "FARRINGTON HWY&HAKIMO; RD", "time": "6:46:18 AM", "location": "\u00a0", "area": "NANAKULI", "date": "11/13/2016", "type": "MOTOR VEHICLE COLLISION"}, {"address": "ALA WAI BLVD&LIPEEPEE; ST", "time": "6:16:50 AM", "location": "\u00a0", "area": "WAIKIKI", "date": "11/13/2016", "type": "MOTOR VEHICLE COLLISION"}]

@@ -1,0 +1,1 @@
+[{"address": "85017X FARRINGTON HWY", "time": "4:27:47 AM", "location": "MAKAHA SURFSIDE BLDG", "area": "MAKAHA", "date": "11/15/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}, {"address": "FARRINGTON HWY&MAKAHA; VALLEY R", "time": "4:27:32 AM", "location": "\u00a0", "area": "MAKAHA", "date": "11/15/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}]

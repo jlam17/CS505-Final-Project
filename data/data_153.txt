@@ -1,0 +1,1 @@
+[{"address": "88X IWILEI RD", "time": "1:23:52 AM", "location": "\u00a0", "area": "KALIHI", "date": "11/15/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}, {"address": "288X ALA ILIMA", "time": "1:19:24 AM", "location": "FIVE REGENTS CONDO", "area": "SALT LAKE", "date": "11/15/2016", "type": "MOTOR VEHICLE COLLISION"}]

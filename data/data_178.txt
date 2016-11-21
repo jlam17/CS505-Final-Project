@@ -1,0 +1,1 @@
+[{"address": "FORT BARRETTE RD&KAPOLEI; PKWY", "time": "2:07:07 AM", "location": "\u00a0", "area": "KAPOLEI", "date": "11/16/2016", "type": "MOTOR VEHICLE COLLISION"}]

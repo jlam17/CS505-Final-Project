@@ -1,0 +1,1 @@
+[{"address": "75X AMANA ST", "time": "12:07:24 AM", "location": "HOLIDAY VILLAGE COND", "area": "HONOLULU", "date": "11/18/2016", "type": "MOTOR VEHICLE COLLISION"}]

@@ -1,0 +1,1 @@
+[{"address": "292X ROUND TOP DR", "time": "12:39:28 AM", "location": "TANTALUS MANOA LOOKO", "area": "MAKIKI", "date": "11/14/2016", "type": "HAZARDOUS DRIVER"}, {"address": "10X H1W FWY", "time": "12:16:01 AM", "location": "H1W PEARL CITY ON", "area": "PEARL CITY", "date": "11/14/2016", "type": "MOTOR VEHICLE COLLISION - TOWED"}]

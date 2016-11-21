@@ -1,0 +1,1 @@
+[{"address": "FARRINGTON HWY&LUALUALEI; HMSTD", "time": "3:02:46 AM", "location": "\u00a0", "area": "WAIANAE", "date": "11/15/2016", "type": "TRAFFIC NUISANCE OR PARKING VIOLATION"}]

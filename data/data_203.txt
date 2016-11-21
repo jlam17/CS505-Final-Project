@@ -1,0 +1,1 @@
+[{"address": "51X LUNALILO HOME RD", "time": "3:39:37 AM", "location": "KAISER HS", "area": "HAWAII KAI", "date": "11/17/2016", "type": "MOTOR VEHICLE COLLISION"}]
